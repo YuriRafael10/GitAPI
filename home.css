@@ -1,0 +1,36 @@
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-outline-success:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
+}
+
+span.badge {
+    border-color: #212529;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    background-color: #212529;
+}
+
+.card {
+    border-radius: 5px;
+    color: white;
+    background-color: #212529;
+}
+
+#liCards {
+    background-color: white;
+}
+
+a#linkNome{
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
